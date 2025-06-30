@@ -10,11 +10,12 @@ Code for the paper submitted to TKDE 2024 (under review).
 
 # Requirements
 
-- Python == 3.8
-
-- Pytorch == 1.11.0
-
-  
+- Python == 3.9
+- tqdm==4.64.0
+- torch==1.13.0 
+- numpy==1.26.4  
+- matplotlib==3.5.1
+- scikit-learn==0.24.2
 
 # Run
 
